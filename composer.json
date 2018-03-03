@@ -1,0 +1,15 @@
+{
+    "name": "somthanat/zbx-proxmox-vm",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Somthanat W.",
+            "email": "somthanat@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "guzzlehttp/guzzle": "^6.3",
+        "disc/php-zabbix-sender": "^1.1"
+    }
+}
